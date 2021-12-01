@@ -1,0 +1,1 @@
+[Link to PR](https://github.com/KSTOV/math-series/pull/1)
